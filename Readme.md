@@ -2,7 +2,7 @@
 
 A Next.js application for transparent, immutable, and secure tracking of products from harvest to consumer using blockchain technology.
 
-![Blockchain Supply Chain Tracking](/placeholder.svg?height=400&width=800)
+[Aqua Ledger - Blockchain Supply Chain Tracking]
 
 ## 🌟 Features
 
@@ -18,7 +18,7 @@ A Next.js application for transparent, immutable, and secure tracking of product
 - **Frontend**: Next.js 14 with App Router
 - **Styling**: Tailwind CSS with shadcn/ui components
 - **Blockchain Integration**: Ethereum (mock implementation)
-- **Authentication**: Wallet-based authentication (MetaMask, TON, WalletConnect)
+- **Authentication**: Wallet-based authentication (MetaMask, WalletConnect)
 - **QR Code**: Client-side QR code generation
 
 ## 📋 Prerequisites
@@ -33,7 +33,7 @@ A Next.js application for transparent, immutable, and secure tracking of product
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/blockchain-supply-chain.git
+   git clone https://github.com/Sid-Kgty/AquaLedger.git
    cd blockchain-supply-chain
    \`\`\`
 
@@ -138,6 +138,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Ethereum](https://ethereum.org/)
 - [QRCode.js](https://github.com/soldair/node-qrcode)
 
----
 
-Built with ❤️ for transparent supply chains
