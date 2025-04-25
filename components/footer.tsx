@@ -16,7 +16,7 @@ export default function Footer() {
         </div>
         <div className="flex items-center gap-4">
           <Link
-            href="https://github.com"
+            href="https://github.com/Sid-Kgty/AquaLedger.git"
             target="_blank"
             rel="noreferrer"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
